@@ -28,5 +28,4 @@ A fun and interactive **Tic-Tac-Toe** game built using **HTML, CSS, and JavaScri
 > ![Screenshot (6)](https://github.com/user-attachments/assets/737b40ee-8f39-42b8-91a0-00867caa8f51)
 
 ```html
-<!-- Example (replace with your actual screenshot URL) -->
-![Tic Tac Toe Screenshot](https://yourdomain.com/screenshot.png)
+Tic Tac Toe Game by Anmol Panchal
